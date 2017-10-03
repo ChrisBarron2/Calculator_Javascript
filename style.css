@@ -1,0 +1,27 @@
+.buttons{
+    width: 80px;
+    height: 70px;
+    border-radius: 10%;
+    background: #6A5ACD;
+    color: white;
+}
+
+.display {
+    font-size: 2.1em;
+    color: black;
+}
+
+.calculator {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 10%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 550px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background: #151229;
+    
+}
+
